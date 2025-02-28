@@ -1,9 +1,7 @@
 # Nawigacja-dla-dronow
 
 
-Zadanie: 
-
-Wymagania systemu: 
+Program pozwala na:
 1. Automatyczne latanie po zadanej ścieżce 
 2. Obracanie drona na zadane kąty 
 3. Możliwość nadpisania ścieżki drona w każdym momencie 
