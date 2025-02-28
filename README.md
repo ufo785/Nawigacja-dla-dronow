@@ -10,4 +10,17 @@ Wymagania systemu:
 4. Możliwość w miarę ręcznego sterowania dronem 
 5. No fly zoney w kształtach koła, prostokątu, 9-kąta wypukłego 
 
-![image](https://github.com/user-attachments/assets/ce9d5c31-0b63-40b4-a09f-0358b81e0e03)
+# No fly zone w różnych kształtach:
+![image](https://github.com/user-attachments/assets/b81f1c18-1d2d-4d11-8de4-a514a51e6ce1)
+
+
+![image](https://github.com/user-attachments/assets/cacf9868-26fb-4441-adad-eb314176355c)
+
+
+![image](https://github.com/user-attachments/assets/a3459bcf-0332-41bd-811c-6ae0e2d520cf)
+
+
+# Dodawanie kolejno punktów trasy drona
+![image](https://github.com/user-attachments/assets/761e740b-9d5c-405a-a706-f6be88af5a23)
+
+
