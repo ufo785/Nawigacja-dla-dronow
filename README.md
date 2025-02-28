@@ -8,7 +8,7 @@ Wymagania systemu:
 2. Obracanie drona na zadane kąty 
 3. Możliwość nadpisania ścieżki drona w każdym momencie 
 4. Możliwość w miarę ręcznego sterowania dronem 
-5. No fly zoney w kształtach koła, prostokątu, 9-kąta wypukłego 
+5. No fly zoney w kształtach koła, prostokątu, wielokąta
 
 # No fly zone w różnych kształtach:
 ![image](https://github.com/user-attachments/assets/b81f1c18-1d2d-4d11-8de4-a514a51e6ce1)
